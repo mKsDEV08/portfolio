@@ -1,0 +1,18 @@
+{
+    "en": {
+        "hello_text": ["Hello, World!", "My name is Pedro Marcos.", "I'm a back-end software engineer."],
+        "navbar": {
+            "about": "About",
+            "projects": "Projects"
+        },
+        "hero_text": "I'm a junior back-end software engineer with expertise in building scalable and efficient systems."
+    },
+    "pt-BR": {
+        "hello_text": ["Olá, Mundo!", "Meu nome é Pedro Marcos.", "Eu sou um engenheiro de software back-end."],
+        "navbar": {
+            "about": "Sobre",
+            "projects": "Projetos"
+        },
+        "hero_text": "Sou um engenheiro de software back-end junior com expertise em construir sistemas escaláveis e eficientes."
+    }
+}
